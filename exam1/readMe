@@ -1,0 +1,2 @@
+1.此题求工资需要缴纳的赋税，需要输入工资！
+mvn clean compile exec:java -Dexec.mainClass="com.hand.demo2" -Dexec.args="arg0 arg1 arg2"

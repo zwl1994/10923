@@ -1,0 +1,2 @@
+1.此题查看以yyyy-mm-dd格式下输入的日期，是当前年的第几天。需要输入日期！
+mvn clean compile exec:java -Dexec.mainClass="com.hand.demo3" -Dexec.args="arg0 arg1 arg2"

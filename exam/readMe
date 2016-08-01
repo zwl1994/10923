@@ -1,0 +1,2 @@
+1.此题求素数，直接运行即可
+mvn clean compile exec:java -Dexec.mainClass="com.hand.demo1" -Dexec.args="arg0 arg1 arg2"

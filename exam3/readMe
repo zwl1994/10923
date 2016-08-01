@@ -1,0 +1,2 @@
+1.此题看Map集合排序前后的结果，直接运行即可！
+mvn clean compile exec:java -Dexec.mainClass="com.hand.demo4" -Dexec.args="arg0 arg1 arg2"
